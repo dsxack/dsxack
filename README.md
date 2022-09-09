@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm developer and security researcher.
+
+- I'm currently working as Golang developer at [omp.ru](https://www.omp.ru).
+- I'm currently learning penetration testing.
+- You can contact me with email dsxack@gmail.com or telegram https://t.me/dsxack
+
 <!--
 **dsxack/dsxack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
