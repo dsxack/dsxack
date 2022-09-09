@@ -2,6 +2,7 @@
 
 I'm developer and security researcher.
 
+- Working as developer from 2009.
 - I'm currently working as Golang developer at [omp.ru](https://www.omp.ru).
 - I'm currently learning penetration testing.
 - You can contact me with email dsxack@gmail.com or telegram https://t.me/dsxack
