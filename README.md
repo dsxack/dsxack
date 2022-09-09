@@ -19,7 +19,7 @@ Worked with platforms:
 - Backend
 - Frontend
 
-I'm also interested in DevOps tools such as Docker, Kubernetes, Consul.
+I'm also interested in DevOps tools such as Docker, Kubernetes, Consul, any CI/CD.
 
 You can contact me with email dsxack@gmail.com or telegram https://t.me/dsxack
 
