@@ -2,8 +2,7 @@
 
 I'm developer and security researcher.
 
-- Working as developer from 2009.
-- I'm currently working as Golang and ReactJS developer at [omp.ru](https://www.omp.ru).
+- Working as developer from 2009 (about 13 years).
 - I'm currently learning penetration testing.
 
 Worked with programming languages:
