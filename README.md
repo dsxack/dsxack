@@ -22,7 +22,7 @@ I'm also interested in DevOps tools such as Docker, Kubernetes, Consul, building
 
 You can contact me with email dsxack@gmail.com or telegram https://t.me/dsxack
 
-![Professional Scrum Developer I](ProfessionalScrumDeveloperI.png)
+<a href="ProfessionalScrumDeveloperI.pdf"><img align="left" src="ProfessionalScrumDeveloperI.png" alt="Professional Scrum Developer I" width="500" /></a>
 
 <!--
 **dsxack/dsxack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
