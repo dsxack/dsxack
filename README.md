@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I'm developer and security researcher.
-
-- Working as developer from 2009.
-- I'm currently learning penetration testing.
+I'm developer and security researcher. Working as developer from 2009.
 
 Worked with programming languages:
 - Golang
