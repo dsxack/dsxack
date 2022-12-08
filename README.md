@@ -2,7 +2,7 @@
 
 I'm developer and security researcher.
 
-- Working as developer from 2009 (about 13 years).
+- Working as developer from 2009.
 - I'm currently learning penetration testing.
 
 Worked with programming languages:
