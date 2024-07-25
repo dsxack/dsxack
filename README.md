@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm developer and security researcher. Working as developer from 2009.
+I'm developer and security researcher. Working as developer from 2011.
 
 Worked with programming languages:
 - Golang
